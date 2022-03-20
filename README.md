@@ -1,2 +1,2 @@
 # Vedios
-https://distracted-colden-a041ea.netlify.app
+https://sleepy-cori-a02fb2.netlify.app
